@@ -3,33 +3,61 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>My Portfolio</title>
     <link rel="stylesheet" href="asset/css/style.css">
 </head>
 <body>
    <header>
        <h1 class="page title">
-           My Portolio
+           My Portfolio
        </h1>
-       <p>Welcome to my web page. Here you can find some information about me and my projects. Don't hesitate to contact me with any questions. </p>
+       <p>Welcome to my web page. 
+           Here you can find some information about me and my projects. 
+           Don't hesitate to contact me with any questions. </p>
    </header>
    <main>
        <section class="content">
-           <div class="navigation bar">
+           <div id="navigation">
                <ul>
                    <li>
-                       <a href="About me">About me</a>
+                       <a href="#about-me">About me</a>
                    </li>
                    <li>
-                       <a href="my pojects">My Projects</a>
+                       <a href="#my-projects">My Projects</a>
                    </li>
                    <li>
-                       <a href="contact me">Contact Me</a>
+                       <a href="#contact-me">Contact Me</a>
                    </li>
                </ul>
            </div>
-           
+           <div class="boxes">
+               <div id="about-me">
+                   <img src="./asset/images/about me.jpeg" alt="shape of a person" class="float-left"/>
+               <h2>About Me</h2>
+               <p>
+                   Hi, My name is Aleksandra. i am new to web development and still have a very long road to go, but i trully enjoy every step ofand try to get as much as possible. I hope you will like this page as this is the first static web page i've cretaed by myself.
+                    Enjoy and Thanks for visiting!
+               </p>
+               </div>
+               <div id="my-projects">
+                   <a href="https://aleksamik.github.io/Code-Refractor/" target="_blank"><img src="./asset/images/my first project.jpeg" alt="screnshot of the front page" class="float-right" width="300px" height="350px"/></a>
+                   <h2>My Projects</h2>
+                   <p>
+                       this is the front page screenshot of the first project we did in the BootCamp. The assignment was to refactor the given code in order to make it more accsessible as well as to fix some minor bugs and to make sure the page is functional.
+                   </p>
+                   </div>
+           </div>
+           <div id="contact-me">
+               <img src="./asset/images/contact me.jpeg" alt="contact me on post it" class="float-left" width="250px" height="200px"/>
+               <h2>Contact Me</h2>
+               <p>
+                   Click on desired icon to contact me.
+               </p>
+            </div>
+            <div class="footer">
+                <h3>made with html, css and 💕 </h3>
+            </div>
 
        </section>
    </main>
