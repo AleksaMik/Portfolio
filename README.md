@@ -27,7 +27,7 @@ Repository contains a quality readme with description, screenshot, link to deplo
 A new web page with title "My Portfolio" was created. Web page contain several sections: header, navigation bar, personal info, samples of the projects, and contact me. All links are functional and will transfer to the assigned content. Images of the projects have corresponding projects name and contains links and as well will deploy to either published web-page or github repo whith assigned projects in it. The bigest size image is represent the very first project. Web page is flexible and will addapt to any viewport size. "Contact me" section include three links and will deploy to the assigned webpage. 
 </p>
 <br>
-![web-page screenshot](./asset/images/SCR-20220620-s6j.jpeg)
+![web-page screenshot](./asset%202/images/SCR-20220620-s6j.jpeg)
 <br>
 link to webpage <https://github.com/AleksaMik/Portfolio/settings/pages>
 link to github repo <https://github.com/AleksaMik/Portfolio>
