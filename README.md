@@ -29,5 +29,5 @@ A new web page with title "My Portfolio" was created. Web page contain several s
 <br>
 ![web-page screenshot](./asset/images/SCR-20220620-s6j.jpeg)
 <br>
-link to webpage
-link to github repo
+link to webpage <https://github.com/AleksaMik/Portfolio/settings/pages>
+link to github repo <https://github.com/AleksaMik/Portfolio>
