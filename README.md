@@ -1,7 +1,11 @@
 # Portfolio
 ## BootCamp week 2 assignment: create portfolio page
 <br>
+
+
 ![screenshot](https://user-images.githubusercontent.com/105229148/174830589-3f2bad6e-36c0-4203-9279-23664f9e31b1.jpeg)
+
+
 <br>
 <br>
 ### Deployment
@@ -26,7 +30,7 @@ Repository contains a quality readme with description, screenshot, link to deplo
 
 ### Process
 <p>
-A new web page with title "My Portfolio" was created. Web page contain several sections: header, navigation bar, personal info, samples of the projects, and contact me. All links are functional and will transfer to the assigned content. Images of the projects have corresponding projects name and contains links and as well will deploy to either published web-page or github repo whith assigned projects in it. The bigest size image is represent the very first project. Web page is flexible and will addapt to any viewport size. "Contact me" section include three links and will deploy to the assigned webpage. 
+A new web page with title "My Portfolio" was created. Web page contain several sections: header, navigation bar, personal info, samples of the projects, and contact me. All links are functional and will transfer to the assigned content. Images of the projects have corresponding projects name and contains links and as well will deploy to either published web-page or github repo whith assigned projects in it. The bigest size image is represent the very first project. Web page is flexible and will addapt to any viewport size. "Contact me" section include three links and will deploy to the corresponding webpage. 
 </p>
 <br>
 <br>
