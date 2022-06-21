@@ -1,7 +1,8 @@
 # Portfolio
 ## BootCamp week 2 assignment: create portfolio page
 <br>
-![screenshot](/Users/aleksandramikhailichenko/Desktop/Portfolio/asset 2/images/screenshot.jpeg)
+![screenshot](https://github.com/AleksaMik/Portfolio/blob/main/asset%202/images/screenshot.jpeg)
+<br>
 <br>
 ### Deployment
 
