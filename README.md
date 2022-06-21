@@ -1,7 +1,7 @@
 # Portfolio
 ## BootCamp week 2 assignment: create portfolio page
 <br>
-
+![screenshot](asset 2/images/screenshot.jpeg)
 ### Deployment
 
 Application deployed at live URL.
