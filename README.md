@@ -28,6 +28,8 @@ A new web page with title "My Portfolio" was created. Web page contain several s
 </p>
 <br>
 <br>
-link to webpage <https://github.com/AleksaMik/Portfolio/settings/pages>
+link to webpage 
+<https://aleksamik.github.io/Portfolio/>
 <br>
-link to github repo <https://github.com/AleksaMik/Portfolio>
+link to github repo 
+<https://github.com/AleksaMik/Portfolio>
