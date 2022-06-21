@@ -1,7 +1,7 @@
 # Portfolio
 ## BootCamp week 2 assignment: create portfolio page
 <br>
-![screenshot](https://github.com/AleksaMik/Portfolio/blob/main/asset%202/images/screenshot.jpeg)
+![screenshot](https://user-images.githubusercontent.com/105229148/174830589-3f2bad6e-36c0-4203-9279-23664f9e31b1.jpeg)
 <br>
 <br>
 ### Deployment
@@ -30,7 +30,7 @@ A new web page with title "My Portfolio" was created. Web page contain several s
 </p>
 <br>
 <br>
-[link to webpage] 
+[link to the web] 
 (https://aleksamik.github.io/Portfolio/)
 <br>
 [link to github repo]
